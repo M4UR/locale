@@ -1936,7 +1936,7 @@
       "pay-with-default": "Seleziona un metodo di pagamento",
       "link-new-bank": "Aggiungi metodo di pagamento",
       "complete-nash-profile": "Completa il tuo <0>profilo Nash</0> prima di poter acquistare asset digitali",
-      "trasak-identity-verification-message": "[Translation required: Transak requires identity verification before this purchase can be made.]",
+      "trasak-identity-verification-message": "Transak richiede la verifica dell'identità prima di poter effettuare l'acquisto",
       "available-balance": "Bilancio disponibile: <0>{{amount}}</0>",
       "no-payment-method-sell": "<0>Aggiungi un metodo di pagamento</0> per vendere i tuoi asset digitali.]",
       "complete-nash-profile-add-method-to-sell": "Completa il tuo <0>profilo Nash</0> e <1>aggiungi un metodo di pagamento</1> per vendere i tuoi asset digitali.",
